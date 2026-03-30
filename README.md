@@ -160,6 +160,6 @@ Follow the steps in order using the left panel buttons:
 
 ## 👨‍💻 Authors
 
-Deepak Ragavendra Panbhukarasu
-Nagarajan Venugopal
-Andrew Sundaradhas
+Deepak Ragavendra Panbhukarasu || 
+Nagarajan Venugopal || 
+Andrew Sundaradhas || 
